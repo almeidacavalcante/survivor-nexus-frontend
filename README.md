@@ -1,6 +1,8 @@
 
 # Survivor Nexus Frontend
 
+![print.png](public%2Fprint.png)
+
 ```bash
 pnpm install
 pnpm dev
